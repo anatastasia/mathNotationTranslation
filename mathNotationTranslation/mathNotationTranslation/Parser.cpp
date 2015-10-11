@@ -40,5 +40,5 @@ bool Parser::processText(istream& is, unique_ptr <Node>& position) {
 	// 	arithmeticOperation(is, tok, position);
 	// 	return false;
 	// }
-	// return true;
+	 return true;
 }

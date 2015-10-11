@@ -15,11 +15,11 @@ LNUM	"<mn>"
 RNUM	"</mn>"
 LID		"<mi>"
 RID		"</mi>"
-LROW	("<mrow>"|"{")
-RROW	("</mrow>"|"}")
+LROW	"<mrow>"
+RROW	"</mrow>"
 LROOT	"<mroot>"
 RROOT	"</mroot>"
-LFRAC	("<mfrac>"|"\\frac")
+LFRAC	"<mfrac>"
 RFRAC	"</mfrac>"
 LSQRT	"<msqrt>"
 RSQRT	"</msqrt>"
